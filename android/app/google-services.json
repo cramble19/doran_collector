@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909796028969",
+    "project_id": "doran-collector",
+    "storage_bucket": "doran-collector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909796028969:android:f6b7c89c52eb0b8375e238",
+        "android_client_info": {
+          "package_name": "com.aditya.doran_collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909796028969-ngqi5hnv1qd44h0r82pqn40d8divkk8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArua4W2Yyb5so-5n0n7GZmmAEESRoopZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909796028969-ngqi5hnv1qd44h0r82pqn40d8divkk8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
