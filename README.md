@@ -1,6 +1,7 @@
 # doran_collector
  Betting/Banking App for friends.
  Bet and Trade in Virtual Currency to keep the spirit of competetiveness going.
+ All data stored on Cloud and realtime update happens.
  
 ![1](https://user-images.githubusercontent.com/72037648/163344985-8da8e789-3f32-4428-a834-6eb917bf1dda.jpeg)
 ![2](https://user-images.githubusercontent.com/72037648/163345006-de1f5fcd-a60d-4dcc-af01-964a02dcbd1b.jpeg)
