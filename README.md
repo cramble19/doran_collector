@@ -1,4 +1,4 @@
-# doran_collector
+# Bank of Doran (A virtual currency app)
  Betting/Banking App for friends.
  Bet and Trade in Virtual Currency to keep the spirit of competetiveness going.
  All data stored on Cloud and realtime update happens.
